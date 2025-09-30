@@ -3,7 +3,7 @@
 Этот репозиторий является каркасом для будущего веб-приложения Fan page Темный принц.
 ## Ссылки
 - [Публичная страница на GitHub Pages](https://Depcil.github.io/my-awesome-project/)
-- [Публичная страница на рпеозиторий](https://github.com/Depcil/my-awesome-project.git)
+- [Публичная страница на репозиторий](https://github.com/Depcil/my-awesome-project.git)
 ## Демонстрация
 
 Сайт опубликован на GitHub Pages: [https://Depcil.github.io/my-awesome-project/](https://Depcil.github.io/my-awesome-project/)
